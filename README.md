@@ -2,6 +2,8 @@
 
 A Python-based command-line To-Do List application developed as part of the **CodSoft Python Programming Internship**. This project helps users organize, manage, and track their daily tasks efficiently through a simple and interactive interface.
 
+---
+
 ## 🚀 Features
 
 - ➕ Add New Tasks
@@ -30,15 +32,26 @@ A Python-based command-line To-Do List application developed as part of the **Co
 
 ## 📂 Project Structure
 
-```
+```text
 Task-1-ToDo-List/
 │
 ├── todo.py
 ├── tasks.json
 ├── backup_tasks.json
 └── README.md
+```
+
 ---
 
+## ▶️ How to Run
+
+1. Download or clone this repository.
+2. Open the **Task-1-ToDo-List** folder.
+3. Run the following command:
+
+```bash
+python todo.py
+```
 
 ---
 
@@ -53,7 +66,7 @@ Through this project, I gained practical experience with:
 - File Handling
 - JSON Data Storage
 - Exception Handling
-- Building Interactive CLI Applications
+- Building Interactive Command-Line Applications
 
 ---
 
@@ -69,11 +82,11 @@ Through this project, I gained practical experience with:
 
 ## 👩‍💻 Author
 
-**Shivani**
+**Shivani Charvande**
 
--GitHub: https://github.com/Charvandeshivani
-- LinkedIn:https://www.linkedin.com/in/shivani-charvande/
+- **GitHub:** https://github.com/Charvandeshivani
+- **LinkedIn:** https://www.linkedin.com/in/shivani-charvande/
 
 ---
 
-⭐ Thank you for visiting this repository! If you found this project useful, consider giving it a ⭐.
+⭐ If you found this project helpful, please consider giving this repository a **Star ⭐**.
