@@ -41,44 +41,12 @@ Task-1-ToDo-List/
 
 ---
 
-## ▶️ How to Run
 
-1. Download or clone this repository.
-
-```bash
-git clone https://github.com/<your-github-username>/CODSOFT-Python-Internship.git
-```
-
-2. Navigate to the project folder.
-
-```bash
-cd Task-1-ToDo-List
-```
-
-3. Run the program.
-
-```bash
-python todo.py
 ```
 
 ---
 
-## 💻 Sample Menu
 
-```
-========== SMART TO-DO LIST ==========
-
-1. Add Task
-2. View Tasks
-3. Update Task
-4. Delete Task
-5. Search Task
-6. Mark Task as Completed
-7. Task Statistics
-8. Backup Tasks
-9. Clear Completed Tasks
-10. Exit
-```
 
 ---
 
@@ -109,11 +77,10 @@ Through this project, I gained practical experience with:
 
 ## 👩‍💻 Author
 
-**Rutuja Bhagatsing**
+**Shivani**
 
-GitHub: https://github.com/<your-github-username>
-
-LinkedIn: https://www.linkedin.com/in/<your-linkedin-username>
+-GitHub: https://github.com/Charvandeshivani
+- LinkedIn:https://www.linkedin.com/in/shivani-charvande/
 
 ---
 
