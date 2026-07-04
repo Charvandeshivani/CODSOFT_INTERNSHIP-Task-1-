@@ -37,8 +37,6 @@ Task-1-ToDo-List/
 ├── tasks.json
 ├── backup_tasks.json
 └── README.md
-```
-
 ---
 
 
