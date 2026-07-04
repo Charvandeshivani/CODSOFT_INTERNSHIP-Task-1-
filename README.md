@@ -40,12 +40,58 @@ Task-1-ToDo-List/
 ├── todo.py
 ├── tasks.json
 ├── README.md
-
-
+└── screenshots/
+```
 
 ---
 
+## ▶️ How to Run
 
+1. Clone this repository.
+
+```bash
+git clone https://github.com/your-username/CODSOFT.git
+```
+
+2. Open the project folder.
+
+3. Run the Python file.
+
+```bash
+python todo.py
+```
+
+---
+
+## 💻 Sample Menu
+
+```
+========== SMART TO-DO MENU ==========
+
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Delete Task
+5. Search Task
+6. Mark Task Completed
+7. Task Statistics
+8. Exit
+```
+
+---
+
+## 📸 Screenshots
+
+You can add screenshots of:
+
+- Welcome Screen
+- Main Menu
+- Add Task
+- View Tasks
+- Statistics
+- Exit Screen
+
+---
 
 ## 🎯 Learning Outcomes
 
@@ -72,10 +118,11 @@ Task 1 - To-Do List Application
 
 ## 👩‍💻 Author
 
-**Shivani**
+**Rutuja Bhagatsing**
 
--GitHub: https://github.com/Charvandeshivani
-- LinkedIn:https://www.linkedin.com/in/shivani-charvande/
+GitHub: https://github.com/your-github-username
+
+LinkedIn: https://linkedin.com/in/your-linkedin-profile
 
 ---
 
